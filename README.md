@@ -23,7 +23,8 @@
    : bahamas : I am a full stack developer learning various frameworks and building mutiple website and applications 
   : seedling : I am exploring react and node.js
   : book : In my free time I like to read as well as play my violin
-  : mailbox : You can reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  ----
+  : mailbox : You can reach me [![Linkedin Badge](https://img.shields.io/badge/-Deja-Drummer-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/deja-drummer1714)
   
   ---
   Langugaes and Tools : 
