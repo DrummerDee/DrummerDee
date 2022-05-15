@@ -10,13 +10,13 @@
   <img src= "https://komarev.com/ghpvc/?username=DrummerDee">
 <h1>
   Hi, how are you?
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" color="brown"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
   
   <div align= "center">
-    <img src="https://media.giphy.com/media/fxI9bA67DZwp3Un78g/giphy.gif" width= "620" height= "500" />
+    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width= "620" height= "500"/>
   </div>
   ---
   
@@ -33,6 +33,12 @@
    Javascript 
    OOP 
    Bootstrap 
+  ---
+  Projects that I have done 
+  <div align: "center">
+    [![TicTacToe Game](https://lucent-truffle-edf43a.netlify.app/)]
+  </div>
+  
   ---
   ### : fire : My Github Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrummerDee&theme=shades-of-purple&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
