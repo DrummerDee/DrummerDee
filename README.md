@@ -12,6 +12,9 @@
   Hi, how are you?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" color="brown"/>
 </h1>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+  
   <div align= "center">
     <img src="https://media.giphy.com/media/fxI9bA67DZwp3Un78g/giphy.gif" width= "620" height= "500" />
   </div>
@@ -19,7 +22,6 @@
   
   ### : woman_technologist : About Me :
   
-  I am a full stack developer from Florida
 - I am a full stack developer learning various frameworks and building mutiple website and applications 
 -I am exploring react and node.js
  - In my free time I like to read as well as play my violin
@@ -37,3 +39,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrummerDee&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
   ---
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrummerDee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
