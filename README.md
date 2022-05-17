@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/p7bz7zIIW2dJemYweL/giphy.gif" width="100" height= "100">
 <div id="badges" align="center">
-   <a href= "www.twitter.com/@drummerbrown5">
+   <a href= "www.twitter.com/drummerbrown5">
  <img src= "https://img.shields.io/badge/Twitter-purple?logo=twitter&logoColor=white" alt= "Twitter Badge">
   </a>
-  <a href="www.linkedin.com/in/deja-drummer1714">
+  <a href="https://www.linkedin.com/in/deja-drummer1714/">
  <img src= "https://img.shields.io/badge/Linkedin-purple?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
 </div>
   <img src= "https://komarev.com/ghpvc/?username=DrummerDee">
