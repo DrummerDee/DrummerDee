@@ -19,30 +19,28 @@
     <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width= "620" height= "500"/>
   </div>
   ---
-  
-  ### : woman_technologist : About Me :
-  
-- I am a full stack developer learning various frameworks and building mutiple website and applications 
--I am exploring react and node.js
- - In my free time I like to read as well as play my violin
-  ----
-  : mailbox : You can reach me [![Linkedin Badge](https://img.shields.io/badge/-Deja-Drummer-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/deja-drummer1714)
-  
-  ---
-  Langugaes and Tools : 
-   Javascript 
-   OOP 
-   Bootstrap 
-  ---
-  Projects that I have done 
-  <div align: "center">
-    [![TicTacToe Game](https://lucent-truffle-edf43a.netlify.app/)]
-  </div>
-  
-  ---
-  ### : fire : My Github Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrummerDee&theme=shades-of-purple&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrummerDee&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-  ---
+  <p align="left">
 
+- 🔭 I’m currently working on [building APIs and OOP](https://strangerthingsapis.netlify.app/)
+
+- 🌱 I’m currently learning Python and C++
+
+- 🤝 I’m looking for help with react and node.js
+
+- 💬 Ask me about my transition from healthcare, interest in music, or my love of books.
+
+- 📫 You can reach me through my social links that are listed above ! :)
+
+- ⚡ Fun fact I'm double jointed and I've played the violin for 10 years.
+  </p>
+  ---
+  <h2 align="center"> Languages and Tools:</h2>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+  
+---
+  <h2 align= "center"> GitHub Stats </h2>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrummerDee&theme=shades-of-purple&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrummerDee&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrummerDee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
