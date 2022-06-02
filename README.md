@@ -10,7 +10,6 @@
   <img src= "https://komarev.com/ghpvc/?username=DrummerDee">
 <h1>
   Hi, how are you?
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
