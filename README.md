@@ -20,7 +20,7 @@
   ---
   <p align="left">
 
-- 🔭 I’m currently working on [building APIs and OOP](https://strangerthingsapis.netlify.app/)
+- 🔭 I’m currently working on building CRUD and REACT applications
 
 - 🌱 I’m currently learning Python and C++
 
