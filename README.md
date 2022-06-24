@@ -22,9 +22,9 @@
 
 - 🔭 I’m currently working on building CRUD and REACT applications
 
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Data Structures and Redux
 
-- 🤝 I’m looking for help with react and node.js
+- 🤝 I’m looking for help with HLS Js and AWS
 
 - 💬 Ask me about my transition from healthcare, interest in music, or my love of books.
 
