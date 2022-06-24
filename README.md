@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning Data Structures and Redux
 
-- 🤝 I’m looking for help with HLS JS and AWS
+- 🤝 I’m looking for help with Bootstrap and AWS
 
 - 💬 Ask me about my transition from healthcare, interest in music, or my love of books.
 
