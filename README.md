@@ -20,11 +20,11 @@
   ---
   <p align="left">
 
-- 🔭 I’m currently working on building CRUD and REACT applications
+- 🔭 I’m currently working on building CRUD & REACT applications
 
-- 🌱 I’m currently learning Data Structures and Redux
+- 🌱 I’m currently learning Redux & Next.js
 
-- 🤝 I’m looking for help with Bootstrap and AWS
+- 🤝 I’m looking for help with Data Structures & Algorithms 
 
 - 💬 Ask me about my transition from healthcare, interest in music, or my love of books.
 
