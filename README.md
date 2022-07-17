@@ -4,7 +4,7 @@
    <a href= "https://www.Twitter.com/DrummerBrown5">
  <img src= "https://img.shields.io/badge/Twitter-purple?logo=twitter&logoColor=white" alt= "Twitter Badge">
   </a>
-  <a href="https://www.linkedin.com/in/deja-drummer1714/">
+  <a href="https://www.linkedin.com/in/drummer5/">
  <img src= "https://img.shields.io/badge/Linkedin-purple?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
 </div>
   <img src= "https://komarev.com/ghpvc/?username=DrummerDee">
