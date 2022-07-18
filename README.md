@@ -17,12 +17,12 @@
   <div align= "center">
     <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width= "620" height= "500"/>
   </div>
-  ---
+  
   <p align="left">
 
 - 🔭 I’m currently working on building CRUD & REACT applications
 
-- 🌱 I’m currently learning Redux & Next.js
+- 🌱 I’m currently learning React & Next.js
 
 - 🤝 I’m looking for help with Data Structures & Algorithms 
 
@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact I'm double jointed and I've played the violin for 10 years.
   </p>
-  ---
+ 
   <h2 align="center"> Languages and Tools:</h2>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
   
@@ -40,6 +40,6 @@
   <h2 align= "center"> GitHub Stats </h2>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrummerDee&theme=shades-of-purple&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrummerDee&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+ 
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrummerDee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
