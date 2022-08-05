@@ -12,7 +12,7 @@
   Hi, how are you?
 </h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+JavaScript+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+Front-End+Developer)](https://git.io/typing-svg)
   
   <div align= "center">
     <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width= "620" height= "500"/>
