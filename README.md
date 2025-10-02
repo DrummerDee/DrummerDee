@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/p7bz7zIIW2dJemYweL/giphy.gif" width="100" height= "100">
 <div id="badges" align="center">
-   <a href= "https://www.Twitter.com/DrummerBrown5">
- <img src= "https://img.shields.io/badge/Twitter-purple?logo=twitter&logoColor=white" alt= "Twitter Badge">
-  </a>
   <a href="https://www.linkedin.com/in/drummer5/">
  <img src= "https://img.shields.io/badge/Linkedin-purple?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
 </div>
@@ -12,7 +9,7 @@
   Hi, how are you?
 </h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+Business+System+Analyst)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+Technical+Product+Owner)](https://git.io/typing-svg)
   
   <div align= "center">
     <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width= "620" height= "500"/>
@@ -20,17 +17,17 @@
   
   <p align="left">
 
-- 🔭 I’m currently working on using intellij and build automation 
+- 🔭 I’m currently working on obtaining my Scrum Product Owner certification 
 
-- 🌱 I’m currently learning Java and Maven
+- 🌱 I’m currently learning PowerBi and GitHub Co-Pilot 
 
-- 🤝 I’m looking for help with Data Structures & Algorithms 
+- 🤝 I’m looking for help with developing product specifications documents and meeting other Product Owners! 
 
-- 💬 Ask me about my transition from healthcare, interest in music, or my love of books.
+- 💬 Ask me about my transition from healthcare, my interest in music, or my love of books.
 
-- 📫 You can reach me through my social links that are listed above ! :)
+- 📫 You can reach me through my social links that are listed above! :)
 
-- ⚡ Fun fact I'm double jointed and I've played the violin for 10 years.
+- ⚡ Fun fact, I'm double-jointed and I've played the violin for 14 years.
   </p>
  
   <h2 align="center"> Languages and Tools:</h2>
